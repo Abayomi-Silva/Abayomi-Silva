@@ -1,4 +1,4 @@
-Bem-vindo(a) ao meu perfil😁
+## Bem-vindo(a) ao meu perfil😁
 
  <div>
    <a href="https://github.com/Abayomi-Silva">
@@ -14,7 +14,7 @@ Bem-vindo(a) ao meu perfil😁
  
 <br>
  
-Contato
+## Contato
  
 <div> 
   <a href="https://instagram.com/abayomi_lukman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
