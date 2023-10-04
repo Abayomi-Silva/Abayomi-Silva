@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AAAAD3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+Abayomi+Lukman+da+Silva;Estudante+na+área+de;FrontEnd+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AAAAD3&size=32&center=true&vCenter=true&width=760&height=50&duration=1000&pause=2000"&lines=Olá,+Sou+Abayomi+Lukman+da+Silva;Estudante+na+área+de+FrontEnd+Developer!)](https://git.io/typing-svg)
   
   
 
@@ -42,13 +42,15 @@
   ### 💻 Software e Ferramentas:
   
 
- <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
- <a href="#"><img alt="opera" src="https://img.shields.io/badge/Opera-FF1B2D.svg?logo=Opera&logoColor=white"></a>
- <a href="#"><img alt="chrome" src="https://img.shields.io/badge/Google_chrome-4285F4.svg?logo=Google-chrome&logoColor=white"></a>
+
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white"></a>
  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
- <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
- </div></div>
+ <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a> 
+ <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
+ <a href="#"><img alt="opera" src="https://img.shields.io/badge/Opera-FF1B2D.svg?logo=Opera&logoColor=white"></a>
+ <a href="#"><img alt="chrome" src="https://img.shields.io/badge/Google_chrome-000fff.svg?logo=Google-chrome&logoColor=white"></a>
+ </div>
+ </div>
 <br>
