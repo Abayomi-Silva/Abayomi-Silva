@@ -51,6 +51,13 @@
  <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
  <a href="#"><img alt="opera" src="https://img.shields.io/badge/Opera-FF1B2D.svg?logo=Opera&logoColor=white"></a>
  <a href="#"><img alt="chrome" src="https://img.shields.io/badge/Google_chrome-000fff.svg?logo=Google-chrome&logoColor=white"></a>
+ ![Snake animation](https://github.com/Abayomi-Silva/Abayomi-Silva/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  
+</picture>
  </div>
  </div>
 <br>
