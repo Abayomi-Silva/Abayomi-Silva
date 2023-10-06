@@ -10,19 +10,13 @@
 <a href = "mailto:abayomi.lukman30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=white" target="_blank"></a>
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5519996673973?text=Ol%C3%A1%20sou%20Abayomi)
 
-  <a href="https://github.com/Abayomi-Silva">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true" />
-</picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abayomi-Silva&layout=compact&langs_count=7&theme=dark"/>
+
+  <div style="display: inline_block">
+    
+ ![Abayomi GitHub stats](https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true&theme=dark&count_private=true) 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abayomi-Silva&layout=compact&langs_count=7&theme=dark"/>
+  
+  </div>
   
   ### 📚 Escolas e Cursos Profissionalizantes:
   
@@ -51,13 +45,7 @@
  <a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
  <a href="#"><img alt="opera" src="https://img.shields.io/badge/Opera-FF1B2D.svg?logo=Opera&logoColor=white"></a>
  <a href="#"><img alt="chrome" src="https://img.shields.io/badge/Google_chrome-000fff.svg?logo=Google-chrome&logoColor=white"></a>
- ![Snake animation](https://github.com/Abayomi-Silva/Abayomi-Silva/blob/output/github-contribution-grid-snake.svg)
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-  
-</picture>
+
  </div>
  </div>
 <br>
