@@ -10,10 +10,20 @@
 <a href = "mailto:abayomi.lukman30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=white" target="_blank"></a>
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5519996673973?text=Ol%C3%A1%20sou%20Abayomi)
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true" />
+</picture>
   <div style="display: inline_block">
     
- ![Abayomi GitHub stats](https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true&theme=dark&count_private=true) 
+
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abayomi-Silva&layout=compact&langs_count=7&theme=dark"/>
   
   </div>
