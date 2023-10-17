@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayomi-lukman-da-silva-21145121a/)
 <a href = "mailto:abayomi.lukman30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=white" target="_blank"></a>
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5519996673973?text=Ol%C3%A1%20sou%20Abayomi)
-
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true&theme=dark"
@@ -20,7 +20,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Abayomi-Silva&show_icons=true" />
-</picture>
+</picture></div>
   <div style="display: inline_block">
     
 
