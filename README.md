@@ -32,7 +32,8 @@
   
   <a href="#"><img alt="FT-Unicamp" src="https://img.shields.io/badge/FT Unicamp-0000ff?.svg?logo=Pluralsight&logoColor=white"></a>
   <a href="#"><img alt="DevQuest" src="https://img.shields.io/badge/DevQuest-8034A9?.svg?logo=Pluralsight&logoColor=white"></a>
-  <a href="#"><img alt="Fundação Bradesco" src="https://img.shields.io/badge/Fundação Bradesco-ff0044?.svg?logo=Pluralsight&logoColor=white"></a>
+  <a href="#"><img alt="OneBitCode" src="https://img.shields.io/badge/OneBitCode-ff0000?.svg?logo=Pluralsight&logoColor=white"></a>
+  <a href="#"><img alt="Fundação Bradesco" src="https://img.shields.io/badge/Fundação Bradesco-ff0055?.svg?logo=Pluralsight&logoColor=white"></a>
 
   
   ### 🛠️ Habilidades:
